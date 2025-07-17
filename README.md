@@ -25,3 +25,7 @@ Creating dynamic PDF reports using FPDF or ReportLab
 Automating end-to-end reporting workflows for real-world applications
 
 It is ideal for students and professionals interested in data analysis, automation, and building real-time reporting tools.
+
+*OUTPUT*
+
+[report.pdf](https://github.com/user-attachments/files/21303588/report.pdf)
